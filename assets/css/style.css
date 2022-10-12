@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    width: 100%;
+}
+.background {
+    background: url('../imgs/bg-intro.jpg');
+    height: 99vh;
+    width: auto;
+    flex-direction: column;
+}
+.form-control {
+    margin-left: 150px;
+    width: 550px;
+    height: 50px;
+}
+.btn {
+    position: relative;
+    right: 120px;
+    top: 5px;
+    height: 40px;
+}
+
+/* RODAPÉ */
+.rodape {
+    flex-direction: column;
+}
+.links {
+    color: #fff;
+    text-decoration: none;
+}
