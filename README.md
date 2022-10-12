@@ -1,6 +1,6 @@
-<h1>Landing Page 03</h1>
+<h1>Landing Page 04</h1>
 
-<p>Está é uma landing page que tem como principal função capturar as informações dos usuários e em seguida enviar um cupom com desconto.</p>
+<p>Está é uma landing page que tem como principal função capturar as informações dos usuários e em seguida enviar uma oferta especial.</p>
 
 <p>Foi utilizado as linguagens HTML, CSS e o framework Bootstrap na criação do website.</p>
 
@@ -11,16 +11,14 @@
 - [Author](#author)
 
 ### <h2>Screenshot</h2>
-
-![](assets/imgs/lp03.jpg)
-
 <h2>Desktop view:</h2>
 
-![](assets/imgs/lp03-desktop.png)
+![](assets/imgs/lp04.png)
+
 
 ### <h2>Links</h2>
 
-- Solution URL: [Solution here](https://ingridssilveira.github.io/landingPage03/)
+- Solution URL: [Solution here](https://ingridssilveira.github.io/landingPage04/)
 
 ## <h2>Author</h2>
 

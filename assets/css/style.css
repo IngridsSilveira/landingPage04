@@ -11,23 +11,63 @@ body {
     width: auto;
     flex-direction: column;
 }
+.textos {
+    width: 50%;
+}
+.formulario {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
 .form-control {
-    margin-left: 150px;
-    width: 550px;
+    margin-left: 130px;
+    width: 40%;
     height: 50px;
 }
 .btn {
     position: relative;
     right: 120px;
-    top: 5px;
     height: 40px;
 }
 
 /* RODAPÉ */
-.rodape {
-    flex-direction: column;
-}
 .links {
     color: #fff;
     text-decoration: none;
+}
+
+/* RESPONSIVIDADE */
+@media screen and (min-width: 0) and (max-width: 499px) {
+    .textos {
+        display: none !important;
+    }
+    .formulario {
+        flex-direction: column;
+    }
+    .form-control {
+        margin-left: 0;
+        margin-bottom: 10px;
+        width: 90%;
+    }
+    .btn {
+        position: unset;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width:992px) {
+    .textos {
+        display: block;
+        width: 100%;
+    }
+    .formulario {
+        flex-direction: column;
+    }
+    .form-control {
+        margin-left: 0;
+        margin-bottom: 10px;
+        width: 90%;
+    }
+    .btn {
+        position: unset;
+    }
 }
