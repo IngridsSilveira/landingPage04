@@ -15,6 +15,10 @@
 
 ![](assets/imgs/lp04.png)
 
+<h2>Mobile and Desktop view: </h2>
+
+![](assets/imgs/lp04.jpg)
+
 
 ### <h2>Links</h2>
 
